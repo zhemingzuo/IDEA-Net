@@ -2,7 +2,7 @@
 ...
 
 ## _Introduction_
-This is an official implementation of our adapt<span style=“color:green;”>I</span>ve Dual sElf-Attention Network (IDEA-Net).
+This is an official implementation of our adapt<span style="color:blue">**I**</span>ve **D**ual s**E**lf-**A**ttention **Net**work (**IDEA-Net**).
 
 IDEA-Net is an unsupervised single image denoiser, which performs on superiorly on AWGN and real-world image noises with a single end-to-end deep neural network, and contributes to the downstream task of face detection in low-light conditions.
 
