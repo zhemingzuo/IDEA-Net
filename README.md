@@ -28,7 +28,7 @@ Clone the github repository. We will call the directory `$IDEA-Net_ROOT`
 ```
 
 ### _Run_
-Run our CFS method
+Run our IDEA-Net
 ```Shell
   cd $IDEA-Net_ROOT/src
 ```
