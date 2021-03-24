@@ -42,7 +42,7 @@ and then run `denoise.py`.
 ### _Performance_
 1. Removing AWGN Image Noise
 
-Comparisons of AWGN denoising results in terms of PSNR on the [(C)BSD68 dataset](https://github.com/clausmichele/CBSD68-dataset) with <img src="https://latex.codecogs.com/gif.latex?\sigma"/>  valued as 25 and 50. <img src = "./fig/green_box.png" width = "3%" denotes the selected image region for comparison and<img src = "./fig/blue_box.png"> indicates the dual self-attention region drawn by IDEA-Net. Best viewed in zoomed mode.
+Comparisons of AWGN denoising results in terms of PSNR on the [(C)BSD68 dataset](https://github.com/clausmichele/CBSD68-dataset) with <img src="https://latex.codecogs.com/gif.latex?\sigma"/>  valued as 25 and 50. <img src = "./fig/green_box.png" width = "3%"> denotes the selected image region for comparison and<img src = "./fig/blue_box.png"> indicates the dual self-attention region drawn by IDEA-Net. Best viewed in zoomed mode.
 <img src = "./fig/Example_AWGN.jpg" width = "100%" alt = "">
 
 2. Removing Real-World Image Noise
