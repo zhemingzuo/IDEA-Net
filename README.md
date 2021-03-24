@@ -42,14 +42,13 @@ and then run `denoise.py`.
 ### _Performance_
 1. Removing AWGN Image Noise
 
-Comparisons of denoising results with respect to PSNR in the case of AWGN with $\sigma$ valued as 25, 50, and 75.  ̋ denotes the
-selected image region for comparison and  ̋ indicates the attention A drawn by IDEA-Net. Best viewed in colour and zoomed mode.
+Comparisons of denoising results with respect to PSNR in the case of AWGN with $\sigma$ valued as 25, 50, and 75. \textcolor{green}{$\square$} denotes the selected image region for comparison and \textcolor{blue}{$\square$} indicates the attention \textcolor{blue}{$\mathcal{A}$} drawn by IDEA-Net. Best viewed in zoomed mode.
 <img src = "./fig/Example_AWGN.jpg" width = "100%" alt = "">
 
 2. Removing Real-World Image Noise
 
 Comparisons of denoising results in terms of PSNR on a real-world noisy image.  ̋ denotes the selected image region for
-comparison and  ̋ indicates the attention A drawn by IDEA-Net. Best viewed in colour and zoomed mode.
+comparison and  ̋ indicates the attention A drawn by IDEA-Net. Best viewed in zoomed mode.
 <img src = "./fig/Example_real_noise.jpg" width = "100%" alt = "">
 
 3. Downstream task on dark face detection
