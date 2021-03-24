@@ -42,7 +42,7 @@ and then run `denoise.py`.
 ### _Performance_
 1. Removing AWGN Image Noise
 
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 <img src = "./fig/Example_AWGN.jpg" width = "100%" alt = "">
 
 2. Removing Real-World Image Noise
