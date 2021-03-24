@@ -42,7 +42,7 @@ and then run `denoise.py`.
 ### _Performance_
 1. Removing AWGN Image Noise
 
-Comparisons of AWGN denoising results in terms of PSNR on the (C)BSD68 dataset with <img src="https://latex.codecogs.com/gif.latex?\sigma"/>  valued as 25 and 50. <img src="https://latex.codecogs.com/gif.latex?$\square$"/> denotes the selected image region for comparison and \textcolor{blue}{$\square$} indicates the dual self-attention region drawn by IDEA-Net. Best viewed in colour.
+Comparisons of AWGN denoising results in terms of PSNR on the (C)BSD68 dataset with <img src="https://latex.codecogs.com/gif.latex?\sigma"/>  valued as 25 and 50. <img src="https://latex.codecogs.com/gif.latex?\textcolor{green}{$\square$}"/> denotes the selected image region for comparison and \textcolor{blue}{$\square$} indicates the dual self-attention region drawn by IDEA-Net. Best viewed in zoomed mode.
 <img src = "./fig/Example_AWGN.jpg" width = "100%" alt = "">
 
 2. Removing Real-World Image Noise
@@ -52,3 +52,5 @@ comparison and  ̋ indicates the attention A drawn by IDEA-Net. Best viewed in z
 <img src = "./fig/Example_real_noise.jpg" width = "100%" alt = "">
 
 3. Downstream task on dark face detection
+
+<img src = "./fig/Example_dark_face.jpg" width = "100%" alt = "">
