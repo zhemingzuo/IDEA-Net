@@ -8,7 +8,10 @@ IDEA-Net is an unsupervised single image denoiser, which performs on superiorly 
 
 <img src = "./fig/IDEA-Net.jpg" width = "100%" alt = "Architecture of our IDEA-Net">
 
-For more details, please refer our [paper](https://arxiv.org/pdf/2101.03581.pdf).
+For more details, please refer our 
+- [[paper](https://arxiv.org/pdf/2101.03581.pdf)]
+- [[supp](https://arxiv.org/pdf/2101.03581.pdf)]
+- [[video](https://arxiv.org/pdf/2101.03581.pdf)]
 
 ## _Contents_
 1. [Requirement](#requirement)
