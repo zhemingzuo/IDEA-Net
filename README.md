@@ -16,15 +16,16 @@ IDEA-Net is an unsupervised single image denoiser, which performs on superiorly 
 - TensorFlow == 1.14.0
 - Python == 3.6
 - CUDA == 10.0
-
-### _Requirement_
-- MATLAB >= 2016a
+- keras
+- scikit-image
+- scipy
+- cv2
 
 ### _Preparation_
 Clone the github repository. We will call the directory `$IDEA-Net_ROOT`
 ```Shell
   git https://github.com/zhemingzuo/IDEA-Net
-  cd $IDEA-Net
+  cd $IDEA-Net_ROOT
 ```
 
 ### _Run_
