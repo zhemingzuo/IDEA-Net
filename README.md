@@ -66,7 +66,7 @@ Performance comparisons of real-world dark/noisy face detection on the [DARK FAC
 <img src = "./fig/Example_dark_face.jpg" width = "100%" alt = "">
 
 ## _Citation_
-If you find CFS useful in your research, please consider citing:
+If you find IDEA-Net useful in your research, please consider citing:
 ```
 @InProceedings{Chen_Zuo_2021_ICCV,
     author = {X. Chen and Z. Zuo and J. Li and W. Liao and S. Wang and Z.-X. Yang},
