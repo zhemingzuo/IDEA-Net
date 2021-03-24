@@ -6,6 +6,10 @@ This is an official implementation of our adapt**I**ve **D**ual s**E**lf-**A**tt
 
 IDEA-Net is an unsupervised single image denoiser, which performs on superiorly on AWGN and real-world image noises with a single end-to-end deep neural network, and contributes to the downstream task of face detection in low-light conditions.
 
+<img src = "./fig/IDEA-Net.jpg" width = "100%" alt = "Architecture of the proposed IDEA-Net. Upper row present the DSA-GAM and lower row denotes the DSA-EDM.">
+
+For more details, please refer our [paper](https://arxiv.org/pdf/2101.03581.pdf).
+
 ## _Contents_
 1. [Requirement](#requirement)
 2. [Preparation](#preparation)
