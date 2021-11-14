@@ -1,12 +1,11 @@
 # **IDEA-Net: Adaptive Dual Self-Attention Network for Single Image Denoising**
-By Xinyu Chen<sup>1,&#42;</sup>, [Zheming Zuo](https://scholar.google.co.uk/citations?user=jzpjf4UAAAAJ&hl=en)<sup>2,&#42;&dagger;</sup>, [Jie Li](https://scholar.google.co.uk/citations?user=qiP4qZMAAAAJ&hl=en)<sup>3</sup>, Wenjuan Liao<sup>4</sup>, Shizheng Wang<sup>5</sup>, and Zhi-Xin Yang<sup>1</sup><br/>
-<sup>1</sup> Department of Electromechanical Engineering, University of Macau, Macau 999078, China<br/>
-<sup>2</sup> Department of Computer Science, Durham University, Durham DH1 3LE, UK<br/>
-<sup>3</sup> School of Computing, Engineering \& Digital Technologies, Teesside University, Middlesbrough TS3 6DR, UK<br/>
-<sup>4</sup> Department of xxxx, Australian National University, Canberra xxx, Australia<br/>
-<sup>5</sup> Institute of Microelectronics, China Academy of Sciences, Beijing 100029, China<br/>
-<sup>&#42;</sup> Equal contribution.<br/>
-<sup>&dagger;</sup> Corresponding author.
+By [Zheming Zuo](https://scholar.google.co.uk/citations?user=jzpjf4UAAAAJ&hl=en)<sup>1</sup>, Xinyu Chen<sup>2</sup>, Han Xu<sup>3,4</sup>, [Jie Li](https://scholar.google.co.uk/citations?user=qiP4qZMAAAAJ&hl=en)<sup>5</sup>, Wenjuan Liao<sup>6</sup>, [Zhi-Xin Yang](https://scholar.google.com/citations?user=tlgIocMAAAAJ&hl=en)<sup>2</sup>, and [Shizheng Wang](https://scholar.google.com.sg/citations?user=Flpe3S4AAAAJ&hl=en)<sup>4</sup><br/>
+<sup>1</sup>  Department of Computer Science, Durham University, Durham DH1 3LE, UK<br/>
+<sup>2</sup>Department of Electromechanical Engineering, University of Macau, Macau 999078, China<br/>
+<sup>3</sup> University of Chinese Academy of Sciences, Beijing 100049, China<br/>
+<sup>4</sup> Institute of Microelectronics, Chinese Academy of Sciences, Beijing 100029, China<br/>
+<sup>5</sup> School of Computing, Engineering \& Digital Technologies, Teesside University, Middlesbrough TS3 6DR, UK<br/>
+<sup>6</sup> Department of xxxx, Australian National University, Canberra xxx, Australia<br/>
 
 ## _Introduction_
 This is an official implementation of our adapt**I**ve **D**ual s**E**lf-**A**ttention **Net**work (**IDEA-Net**).
@@ -68,10 +67,10 @@ Performance comparisons of real-world dark/noisy face detection on the [DARK FAC
 ## _Citation_
 If you find IDEA-Net useful in your research, please consider citing:
 ```
-@InProceedings{Chen_Zuo_2021_ICCV,
-    author = {X. Chen and Z. Zuo and J. Li and W. Liao and S. Wang and Z.-X. Yang},
+@InProceedings{Zuo_2022_WACV,
+    author = {Z. Zuo and X. Chen and H. Xu and J. Li and W. Liao and Z.-X. Yang and S. Wang},
 	title = {IDEA-Net: Adaptive Dual Self-Attention Network for Single Image Denoising},
-	booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-	year = {2021}
+	booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
+	year = {2022}
 }
 ```
