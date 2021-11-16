@@ -15,38 +15,36 @@ IDEA-Net is an unsupervised single image denoiser, which performs on superiorly 
 <img src = "./fig/IDEA-Net.jpg" width = "100%" alt = "Architecture of our IDEA-Net">
 
 For more details, please refer our 
-- [[paper](https://arxiv.org/pdf/2101.03581.pdf)]
-- [[supp](https://arxiv.org/pdf/2101.03581.pdf)]
-- [[video](https://arxiv.org/pdf/2101.03581.pdf)]
+- [[paper](https://in-press.pdf)]
+- [[supp](https://in-press.pdf)]
 
 ## _Contents_
-1. [Requirement](#requirement)
-2. [Preparation](#preparation)
+1. [Preparation](#preparation)
+2. [Installation](#installation)
 3. [Run](#run)
 4. [Performance](#performance)
 
-### _Requirement_
-- TensorFlow == 1.14.0
-- Python == 3.6
-- CUDA == 10.0
-- keras
-- scikit-image
-- scipy
-- cv2
-
 ### _Preparation_
-Clone the github repository. We will call the directory `$IDEA-Net_ROOT`
+Clone the github repository.
 ```Shell
   git https://github.com/zhemingzuo/IDEA-Net
-  cd $IDEA-Net_ROOT
+  cd IDEA-Net
 ```
 
-### _Run_
-Run our IDEA-Net
+### _Installation_
+Set up a conda environmentwith all dependencies as follows:
 ```Shell
-  cd $IDEA-Net_ROOT/src
+  conda env create -f environment.yml
+  source activate ideanet_wacv_2022
 ```
-and then run `denoise.py`.
+Please note our implementation is only tested under Ubuntu environment with Nvidia GPUs and CUDA installed.
+
+
+### _Run_
+Run our IDEA-Net for image denosing via
+```Shell
+  python main.py  --to_train=1 --log_dir=./output/exp_01 --config_filename=./configs/exp_01.json
+```
 
 ### _Performance_
 1. Removing AWGN Image Noise
