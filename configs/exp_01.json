@@ -1,0 +1,17 @@
+{
+  "description": "ideanet", 
+  "DSAGAM_dataset_name": "ideanet",
+  "DSAGAM_pool_size": 10,
+  "DSAGAM_base_lr": 0.0001,
+  "DSAGAM_max_step": 4,
+  "DSAGAM_do_flipping": 0,
+  "DSAGAM_LAMBDA_A": 10,
+  "DSAGAM_LAMBDA_B": 10,
+  "DSAGAM_threshold": 130,
+  "DSAGAM_area": 1000,
+  "DSAEDM_N_STEP": 30000,
+  "DSAEDM_sigma ": -1,
+  "DSAEDM_N_PREDICTION": 100,
+  "DSAEDM_N_save": 1000,
+  "DSAEDM_lr": 1e-4
+}

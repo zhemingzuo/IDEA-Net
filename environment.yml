@@ -1,0 +1,16 @@
+name: ideanet_wacv_2022
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6.8
+  - numpy=1.17.1
+  - scikit-image=0.16.2
+  - scipy=1.2.0
+  - pillow=6.1.0
+  - pip=20.0.2
+  - yaml=0.1.7
+  - pip:
+    - opencv-python==3.4.2.17
+    - keras==2.2.5
+    - tensorflow-gpu==1.14.0
