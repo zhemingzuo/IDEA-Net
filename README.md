@@ -10,7 +10,7 @@ By [Zheming Zuo](https://scholar.google.co.uk/citations?user=jzpjf4UAAAAJ&hl=en)
 ## _Introduction_
 This is an official implementation of our adapt**I**ve **D**ual s**E**lf-**A**ttention **Net**work (**IDEA-Net**).
 
-IDEA-Net is an unsupervised single image denoiser, which performs on superiorly on AWGN and real-world image noises with a single end-to-end deep neural network, and contributes to the downstream task of face detection in low-light conditions.
+IDEA-Net is an unsupervised single image denoiser, which performs on superiorly on AWGN and real-world image noises with a single end-to-end deep neural network, and contributes to the downstream task of face detection in low-light conditions. Our work is inspired by [Unsupervised Attention-guided Image-to-Image Translation](https://papers.nips.cc/paper/2018/file/4e87337f366f72daa424dae11df0538c-Paper.pdf) and [Self2Self With Dropout: Learning Self-Supervised Denoising From Single Image](https://openaccess.thecvf.com/content_CVPR_2020/papers/Quan_Self2Self_With_Dropout_Learning_Self-Supervised_Denoising_From_Single_Image_CVPR_2020_paper.pdf).
 
 <img src = "./fig/IDEA-Net.jpg" width = "100%" alt = "Architecture of our IDEA-Net">
 
