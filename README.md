@@ -27,7 +27,7 @@ For more details, please refer our
 ### _Preparation_
 Clone the github repository.
 ```Shell
-  git https://github.com/zhemingzuo/IDEA-Net
+  git https://github.com/zhemingzuo/IDEA-Net --recursive
   cd IDEA-Net
 ```
 
