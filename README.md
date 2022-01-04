@@ -65,7 +65,7 @@ Performance comparisons of real-world dark/noisy face detection on the [DARK FAC
 ## _Citation_
 If you find IDEA-Net useful in your research, please consider citing:
 ```
-@InProceedings{Zuo_2022_WACV,
+@InProceedings{Zuo_IdeaNet_2022_WACV,
     author    = {Z. Zuo and X. Chen and H. Xu and J. Li and W. Liao and Z.-X. Yang and S. Wang},
     title     = {IDEA-Net: Adaptive Dual Self-Attention Network for Single Image Denoising},
     booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
