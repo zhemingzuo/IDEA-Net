@@ -15,8 +15,8 @@ IDEA-Net is an unsupervised single image denoiser, which performs on superiorly 
 <img src = "./fig/IDEA-Net.jpg" width = "100%" alt = "Architecture of our IDEA-Net">
 
 For more details, please refer our 
-- [[paper](https://in-press.pdf)]
-- [[supp](https://in-press.pdf)]
+- [[paper](https://openaccess.thecvf.com/content/WACV2022W/WACI/papers/Zuo_IDEA-Net_Adaptive_Dual_Self-Attention_Network_for_Single_Image_Denoising_WACVW_2022_paper.pdf)]
+- [[supp](https://openaccess.thecvf.com/content/WACV2022W/WACI/supplemental/Zuo_IDEA-Net_Adaptive_Dual_WACVW_2022_supplemental.pdf)]
 
 ## _Contents_
 1. [Preparation](#preparation)
@@ -65,10 +65,12 @@ Performance comparisons of real-world dark/noisy face detection on the [DARK FAC
 ## _Citation_
 If you find IDEA-Net useful in your research, please consider citing:
 ```
-@InProceedings{Zuo_IdeaNet_2022_WACV_Workshops,
-    author = {Z. Zuo and X. Chen and H. Xu and J. Li and W. Liao and Z.-X. Yang and S. Wang},
-	title = {IDEA-Net: Adaptive Dual Self-Attention Network for Single Image Denoising},
-	booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
-	year = {2022}
+@InProceedings{Zuo_2022_WACV,
+    author    = {Z. Zuo and X. Chen and H. Xu and J. Li and W. Liao and Z.-X. Yang and S. Wang},
+    title     = {IDEA-Net: Adaptive Dual Self-Attention Network for Single Image Denoising},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
+    month     = {January},
+    year      = {2022},
+    pages     = {739-748}
 }
 ```
