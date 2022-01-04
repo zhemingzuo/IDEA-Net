@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhemingzuo%2FIDEA-Net&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhemingzuo%2FIDEA-Net&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # **IDEA-Net: Adaptive Dual Self-Attention Network for Single Image Denoising**
 By [Zheming Zuo](https://scholar.google.co.uk/citations?user=jzpjf4UAAAAJ&hl=en)<sup>1</sup>, Xinyu Chen<sup>2</sup>, Han Xu<sup>3,4</sup>, [Jie Li](https://scholar.google.co.uk/citations?user=qiP4qZMAAAAJ&hl=en)<sup>5</sup>, Wenjuan Liao<sup>6</sup>, [Zhi-Xin Yang](https://scholar.google.com/citations?user=tlgIocMAAAAJ&hl=en)<sup>2</sup>, and [Shizheng Wang](https://scholar.google.com.sg/citations?user=Flpe3S4AAAAJ&hl=en)<sup>4</sup><br/>
